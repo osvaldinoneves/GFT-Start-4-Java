@@ -1,2 +1,2 @@
 # Desafio de projeto sobre Git/GutHub
-Repositório criado para o desafio de projeto sobre Git/GutHub
+Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
